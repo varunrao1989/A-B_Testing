@@ -1,4 +1,3 @@
-# A-B_Testing
 This project is part of Udacity's Data Science Nanodegree program as a portfolio exercise.
 Data is provided by Udacity through Starbucks.
 
